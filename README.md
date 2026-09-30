@@ -1,8 +1,10 @@
-# DeepPopov Project Academic Repository & Index
+*DeepPopov Project* Academic Repository & Index
 
-This repository serves as the primary open-access index for the research works, epistemological manifestos, and theoretical models produced by the **DeepPopov Project**. 
+This repository serves as the primary open-access index for the research works, epistemological manifestos, and theoretical models produced by the *DeepPopov Project* , bridging independent theoretical inquiry with decentralized academic indexing infrastructure.
 
-By anchoring independent non-doctrinal research into decentralized infrastructure, this index ensures synchronized tracking between **GitHub**, **ORCID**, and **DataCite/Zenodo** metadata pipelines.
+All primary records, papers, and evolutionary preprints are securely stored within global open-access repositories and structurally integrated into the scientific ecosystem via the persistent identifiers (DOIs) managed below.
+
+By anchoring independent non-doctrinal research into decentralized infrastructure, this index ensures synchronized tracking between GitHub, ORCID, and DataCite/Zenodo metadata pipelines.
 
 ## Global Academic Identifiers
 * **ORCID Record:** [Andrey S. Popov (0009-0003-5683-9155)](https://orcid.org)
