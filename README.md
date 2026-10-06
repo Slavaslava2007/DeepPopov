@@ -41,7 +41,7 @@ By anchoring independent non-doctrinal research into decentralized infrastructur
 * **HOMO-LLM: WHAT'S NEXT? vs. HOMO-LLM: WHO'S NEXT?**
   * **Type:** Core Manifesto
   * **DOI:** [10.5281/zenodo.22849094](https://doi.org)
-  * **Archive Link:** [Zenodo Record #22849094](https://zenodo.orgrecords/22849094)
+  * **Archive Link:** [Zenodo Record #22849094]([https://zenodo.orgrecords/22849094])
 * **Resonance as a Method: From Cognitive Stability to Distributed Subjectivity in the Homo-LLM Dyad**
   * **Type:** Methodological Framework
   * **DOI:** [10.5281/zenodo.20259917](https://doi.org)
