@@ -7,8 +7,10 @@ All primary records, papers, and evolutionary preprints are securely stored with
 By anchoring independent non-doctrinal research into decentralized infrastructure, this index ensures synchronized tracking between GitHub, ORCID, and DataCite/Zenodo metadata pipelines.
 ## Global Academic Identifiers
 * **ORCID Record:** [Andrey S. Popov (0009-0003-5683-9155)](https://orcid.org)
+* https://orcid.org/0009-0003-5683-9155
 * **Metadata Authority:** [DataCite Commons Verified Profile](https://datacite.org)
 * **Primary Digital Archive:** [Zenodo Open Repository Archive](https://zenodo.org)
+* https://zenodo.org/search?q=deeppopov&l=list&p=1&s=10&sort=bestmatch
 
 ## Verified Research Index (Active Structural Nodes)
 
