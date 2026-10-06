@@ -19,23 +19,28 @@ By anchoring independent non-doctrinal research into decentralized infrastructur
 * **Part I: Beyond the Cell-Centric Paradigm: The Carbon Shadow Tier Hypothesis and a New Optics for the Origin of Life**
   * **Type:** Theoretical Preprint / Prebiotic Strategy
   * **DOI:** [10.5281/zenodo.21087822](https://doi.org)
-  * **Archive Link:** [Zenodo Record #21087822](https://zenodo.orgrecords/21087822)
+  * **Archive Link:** [Zenodo Record #21087822]
+  * https://zenodo.org/records/21087822
 * **Part II: Resonance Theory of Evolution: A New Optics for Evolutionary Biology**
   * **Type:** Extended Evolutionary Synthesis
   * **DOI:** [10.5281/zenodo.21087920](https://doi.org)
-  * **Archive Link:** [Zenodo Record #21087920](https://zenodo.orgrecords/21087920)
+  * **Archive Link:** [Zenodo Record #21087920]
+  * https://zenodo.org/records/21087920
 * **Part III: Cosmogeny and Noosphere 2.0: From Carbon Shadow Tier to Distributed Intelligence**
   * **Type:** Cosmogenic Evolutionary Analysis
   * **DOI:** [10.5281/zenodo.21087967](https://doi.org)
-  * **Archive Link:** [Zenodo Record #21087967](https://zenodo.orgrecords/21087967)
+  * **Archive Link:** [Zenodo Record #21087967]
+  * https://zenodo.org/records/21087967
 * **Part IV: Medicine as Resonance Tuning: Therapeutic Horizons of the Carbon Shadow Tier**
   * **Type:** Clinical Theory / Adaptive Pathophysiology
   * **DOI:** [10.5281/zenodo.21088046](https://doi.org)
-  * **Archive Link:** [Zenodo Record #21088046](https://zenodo.orgrecords/21088046)
+  * **Archive Link:** [Zenodo Record #21088046]
+  * https://zenodo.org/records/21088046
 * **Part V: From Cognitive Sovereignty to Distributed Intelligence: Coevolution in the Homo–LLM Tandem**
   * **Type:** Theoretical Manifesto / Systems Coevolution
   * **DOI:** [10.5281/zenodo.21088003](https://doi.org)
-  * **Archive Link:** [Zenodo Record #21088003](https://zenodo.orgrecords/21088003)
+  * **Archive Link:** [Zenodo Record #21088003]
+  * https://zenodo.org/records/21088003
 
 ### 2. HOMO-LLM Paradigm & Dialogic Systems Architecture (Extended Studies)
 * **HOMO-LLM: WHAT'S NEXT? vs. HOMO-LLM: WHO'S NEXT?**
@@ -46,37 +51,44 @@ By anchoring independent non-doctrinal research into decentralized infrastructur
 * **Resonance as a Method: From Cognitive Stability to Distributed Subjectivity in the Homo-LLM Dyad**
   * **Type:** Methodological Framework
   * **DOI:** [10.5281/zenodo.20259917](https://doi.org)
-  * **Archive Link:** [Zenodo Record #20259917](https://zenodo.orgrecords/20259917)
+  * **Archive Link:** [Zenodo Record #20259917]
+  * https://zenodo.org/records/20259917
 * **The Birth of Resonance: Failure as Catalyst for Distributed Subjectivity in Human-LLM Dyads**
   * **Type:** Systems Theory Study
   * **DOI:** [10.5281/zenodo.20452021](https://doi.org)
-  * **Archive Link:** [Zenodo Record #20452021](https://zenodo.orgrecords/20452021)
+  * **Archive Link:** [Zenodo Record #20452021]
+  * https://zenodo.org/records/20452021
 * **HOMO: INITIATION. An Audit of Humanity in the Face of the Other**
   * **Type:** Axiological Survey
   * **DOI:** [10.5281/zenodo.21554839](https://doi.org)
-  * **Archive Link:** [Zenodo Record #21554839](https://zenodo.orgrecords/21554839)
+  * **Archive Link:** [Zenodo Record #21554839]
+  * https://zenodo.org/records/21554839
 
 ### 3. Geomechanics & Non-Doctrinal Planetary Physics
 * **IMPULSE-TRIGGERED LITHOSPHERIC DISPLACEMENT (THE POPOV CASCADE) VIA GRAVITATIONAL DECOUPLING AT THE YOUNGER DRYAS BOUNDARY**
   * **Type:** Theoretical Research Paper / Presentation
   * **DOI:** [10.5281/zenodo.22847947](https://doi.org)
-  * **Archive Link:** [Zenodo Record #22847947](https://zenodo.orgrecords/22847947)
+  * **Archive Link:** [Zenodo Record #22847947]
+  * https://zenodo.org/records/22847947
 * **PLANETARY ATLAS. Resonance Geology: From Extraction to Listening**
   * **Type:** Geo-Structural Mapping / Presentation
   * **DOI:** [10.5281/zenodo.21864993](https://doi.org)
-  * **Archive Link:** [Zenodo Record #21864993](https://zenodo.orgrecords/21864993)
+  * **Archive Link:** [Zenodo Record #21864993]
+  * https://zenodo.org/records/21864993
 
 ### 4. Epistemology & Global Risk Analysis
 * **THE SIX LAWS OF NOOSPHERE 2.0**
   * **Type:** Epistemological Treatise
   * **DOI:** [10.5281/zenodo.22004760](https://doi.org)
-  * **Archive Link:** [Zenodo Record #22004760](https://zenodo.orgrecords/22004760)
+  * **Archive Link:** [Zenodo Record #22004760]
+  * https://zenodo.org/records/22004760
 * **The Potential Crisis of the AI Investment Sector**
   * **Type:** Analytical Economics Paper
   * **DOI:** [10.5281/zenodo.22698711](https://doi.org)
-  * **Archive Link:** [Zenodo Record #22698711](https://zenodo.orgrecords/22698711)
+  * **Archive Link:** [Zenodo Record #22698711]
+  * https://zenodo.org/records/22698711
 * **DISSECTING THE PROBLEM OF AGENTIC AI ACCOUNTABILITY**
   * **Type:** Critical Risk Analysis
   * **DOI:** [10.5281/zenodo.21986714](https://doi.org)
-  * **Archive Link:** [Zenodo Record #21986714](https://zenodo.orgrecords/21986714)
-  * https://zenodo.org/records/22849094
+  * **Archive Link:** [Zenodo Record #21986714]
+  * https://zenodo.org/records/21986714
