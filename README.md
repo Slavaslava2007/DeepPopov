@@ -78,3 +78,4 @@ By anchoring independent non-doctrinal research into decentralized infrastructur
   * **Type:** Critical Risk Analysis
   * **DOI:** [10.5281/zenodo.21986714](https://doi.org)
   * **Archive Link:** [Zenodo Record #21986714](https://zenodo.orgrecords/21986714)
+  * https://zenodo.org/records/22849094
